@@ -1,0 +1,4 @@
+﻿  Lab FBO.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Lab FBO.vcxproj -> U:\personal\Kelly\Lab FBO\Debug\Lab FBO.exe

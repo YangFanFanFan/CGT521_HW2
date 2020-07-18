@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab FBO.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  VideoMux.cpp
+u:\personal\kelly\hw2\videomux.cpp(187): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+u:\personal\kelly\hw2\videomux.cpp(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+u:\personal\kelly\hw2\videomux.cpp(233): warning C4244: 'argument': conversion from 'double' to 'int64_t', possible loss of data
+u:\personal\kelly\hw2\videomux.cpp(265): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
+u:\personal\kelly\hw2\videomux.cpp(288): warning C4996: 'avcodec_encode_audio2': was declared deprecated
+  u:\personal\kelly\hw2\include\libavcodec\avcodec.h(5283): note: see declaration of 'avcodec_encode_audio2'
+u:\personal\kelly\hw2\videomux.cpp(389): warning C4244: 'argument': conversion from 'double' to 'int64_t', possible loss of data
+u:\personal\kelly\hw2\videomux.cpp(412): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+u:\personal\kelly\hw2\videomux.cpp(438): warning C4996: 'avcodec_encode_video2': was declared deprecated
+  u:\personal\kelly\hw2\include\libavcodec\avcodec.h(5322): note: see declaration of 'avcodec_encode_video2'
+  Surf.cpp
+  LoadTexture.cpp
+  LoadMesh.cpp
+  HW2.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  InitShader.cpp
+  imgui_widgets.cpp
+  imgui_impl_glut.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  Generating Code...
+u:\personal\kelly\hw2\videomux.cpp(532): warning C4700: uninitialized local variable 'audio_codec' used
+  HW2.vcxproj -> U:\personal\Kelly\HW2\Debug\HW2.exe
